@@ -3,10 +3,12 @@
 **coslicoc/coslicoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+###
 - 🎓 I’m a Math&CS student
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... 
+###
 
 <h1 align="center"> Languages and tools <h1>
 
@@ -24,4 +26,4 @@
 
 <h1 align="center"> How to contact me <h1>
 
-- Email: rgkarikova@gmail.com
+ Email:
