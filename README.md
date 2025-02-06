@@ -5,9 +5,8 @@
 
 ###
 - 🎓 I’m a Math&CS student
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
+- 🌱 I’m currently learning Java
+- 💬 I can speak English
 ###
 
 <h1 align="center"> Languages and tools <h1>
@@ -21,7 +20,3 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-<h1 align="center"> How to contact me <h1>
-
- ### Email:
